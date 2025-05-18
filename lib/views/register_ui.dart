@@ -135,7 +135,7 @@ class _RegisteUIState extends State<RegisteUI> {
                       borderSide: BorderSide(color: Colors.blue, width: 2.0),
                     ),
                     prefixIcon: Icon(
-                      FontAwesomeIcons.phone,
+                      Icons.phone_outlined,
                       color: Colors.blue,
                     ),
                     hintText: 'เบอร์โทรศัพท์',
