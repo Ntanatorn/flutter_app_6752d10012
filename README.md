@@ -1,16 +1,9 @@
-# flutter_app_s6752d10012
+# โปรเจ็คก์ flutter_app_6752d10012
 
-A new Flutter project.
+UI Screen Only for Login and Register
 
-## Getting Started
+# ภาพ Ui Screen
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/1a6c8cc1-8045-48c4-a765-3dac6cfc2e47" width="250">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/ff9c653e-eb92-4ada-94d2-da939e1d3e57" width="250">
